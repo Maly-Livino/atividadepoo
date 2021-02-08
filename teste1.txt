@@ -1,0 +1,14 @@
+Atividade de POO
+1-Anotar algo 
+2-ter feito o git
+3-ja ter colocado o git status
+
+refazendo de novo, pois deu errado ^^"
+
+obs: parece que o git n aceita que o 
+arquivo tenha mesmo nome que a pasta
+
+4-modificações 
+5- fazer o git reconhecer
+6-ele reconheceu
+7-add a nova alteração
