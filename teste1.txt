@@ -12,3 +12,5 @@ arquivo tenha mesmo nome que a pasta
 5- fazer o git reconhecer
 6-ele reconheceu
 7-add a nova alteração
+8- usei o git commit -m
+
